@@ -42,10 +42,12 @@ function useTypingEffect(texts: string[], typingSpeed = 100, deletingSpeed = 50,
 export function HeroSection() {
   const canvasRef = useRef<HTMLCanvasElement>(null)
   const typedText = useTypingEffect([
-    "Front-End Developer & Engineering Student",
+    "Front-End Developer",
+    "Engineering Student",
+    "Backend Developer",
     "Full Stack Developer",
     "AI/ML Engineer",
-    "GIS Specialist",
+    "Geospatial Engineer",
   ])
 
   useEffect(() => {

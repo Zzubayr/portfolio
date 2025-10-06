@@ -45,6 +45,7 @@ export function Navigation() {
           >
             AZ
           </motion.a> */}
+          <div></div>
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center gap-8">
