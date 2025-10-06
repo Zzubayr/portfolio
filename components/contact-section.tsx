@@ -11,19 +11,19 @@ const socialLinks = [
   {
     name: "GitHub",
     icon: Github,
-    href: "https://github.com/yourusername",
+    href: "https://github.com/Zzubayr",
     color: "hover:text-purple-400",
   },
   {
     name: "LinkedIn",
     icon: Linkedin,
-    href: "https://linkedin.com/in/yourusername",
+    href: "www.linkedin.com/in/abdussalam-zubayr-8a672126a",
     color: "hover:text-blue-400",
   },
   {
     name: "Twitter",
     icon: Twitter,
-    href: "https://twitter.com/yourusername",
+    href: "https://x.com/Abdussalam26416",
     color: "hover:text-sky-400",
   },
 ]
