@@ -17,7 +17,7 @@ const socialLinks = [
   {
     name: "LinkedIn",
     icon: Linkedin,
-    href: "www.linkedin.com/in/abdussalam-zubayr-8a672126a",
+    href: "https://www.linkedin.com/in/abdussalam-zubayr-8a672126a",
     color: "hover:text-blue-400",
   },
   {
